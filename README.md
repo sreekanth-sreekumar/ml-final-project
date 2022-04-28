@@ -1,3 +1,5 @@
+Detecting Misinformation in Web using Multi Modal machine learning models
+
 Code for final ML project CS2750. Please follow the below instructions to run the code.
 
 1. All metadata can be download from https://drive.google.com/drive/folders/1DuH0YaEox08ZwzZDpRMOaFpMCeRyxiEF
